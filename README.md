@@ -10,3 +10,4 @@ Plataforma: Desktop
 
 Requisitos: 
   - Windows 64bits
+  - DevC++
