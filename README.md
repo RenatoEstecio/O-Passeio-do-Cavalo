@@ -9,5 +9,4 @@ Entrada: Teclado.
 Plataforma: Desktop
 
 Requisitos: 
-  - Windows
-  - NET Framework
+  - Windows 64bits
