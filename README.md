@@ -18,4 +18,4 @@ Requisitos:
 
 ScreenShots:
 
-![ ](https://raw.githubusercontent.com/RenatoEstecio/O-Passeio-do-Cavalo/main/O%20Passeio%20do%20Cavalo/C%C3%B3digo/O%20Passeio%20do%20Cavalo%5BFonte%5D/ScreenShot.jpg)
+![ ](https://raw.githubusercontent.com/RenatoEstecio/O-Passeio-do-Cavalo/main/O%20Passeio%20do%20Cavalo/C%C3%B3digo/O%20Passeio%20do%20Cavalo%5BFonte%5D/SS.jpg)
